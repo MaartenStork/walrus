@@ -90,3 +90,14 @@ __pycache__
 # Ignore run generated output
 outputs/
 wandb/
+
+# Local only: slides, papers, notes
+*.pptx
+*.pdf
+*.tex
+*.aux
+*.fls
+*.fdb_latexmk
+*.cls
+HANDOFF.md
+slides/
